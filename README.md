@@ -52,3 +52,4 @@ These insights can help:
 
 ##  Author
 India Bass
+This dataset is simulated but designed to reflect real-world logistics scenarios based on operational experience.
